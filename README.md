@@ -31,9 +31,10 @@ How to Run:
 2. Open "main.cpp" in Dev-C++.
 3. Compile the program.
 4. Run the calculator.
-
+ 
 Project Objective::
-                  The objective of this project is to understand and practice fundamental Object-Oriented Programming 
-                  concepts through a simple calculator application.
+                 The objective of this project is to understand and practice fundamental Object-Oriented Programming concepts through a simple calculator application.
 
-vel C++ OOP Project
+
+
+
