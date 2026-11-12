@@ -36,6 +36,4 @@ Project Objective::
                   The objective of this project is to understand and practice fundamental Object-Oriented Programming 
                   concepts through a simple calculator application.
 
-Project Type
-
-Beginner-Level C++ OOP Project
+vel C++ OOP Project
